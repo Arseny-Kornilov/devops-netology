@@ -1,4 +1,6 @@
 # devops-netology
 My name is Arseny
 
-Ignore files in directory 'not-actual'
+Игнорирование файлов ~/devops-netology/terraform/.gitignore:
+*.tfstate
+.terraformrc
